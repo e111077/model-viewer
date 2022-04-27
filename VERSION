@@ -1,0 +1,5 @@
+commit 911d45e782dd9ac9d00cafa4a0a4b04f0936deb4
+Author: Andrew Chen Wang <60190294+Andrew-Chen-Wang@users.noreply.github.com>
+Date:   Wed Apr 27 14:55:42 2022 -0400
+
+    Add pronunciation of modelIsVisible due to font (#3396)
